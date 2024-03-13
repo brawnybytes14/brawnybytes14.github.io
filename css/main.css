@@ -327,6 +327,10 @@ body {
 	box-sizing: border-box;
 }
 
+.style3 {
+	margin-top: 10px !important;
+}
+
 .row>* {
 	float: left;
 	-moz-box-sizing: border-box;
@@ -1960,7 +1964,7 @@ footer {
 .image.featured {
 	display: block;
 	width: 100%;
-	margin: 0 0 4em 0;
+	margin: 0 0 0 0;
 }
 
 .image.left {
@@ -2943,7 +2947,7 @@ body.homepage.is-loading #header:after {
 	/* Image */
 
 	.image.featured {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 	.image.left {
